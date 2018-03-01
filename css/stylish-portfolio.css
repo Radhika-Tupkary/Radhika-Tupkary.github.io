@@ -290,6 +290,9 @@ h6 {
 }
 
 @media (min-width: 992px) {
+  #special{
+    margin-left:25%;
+  }
   .portfolio-item {
     max-width: none;
     margin: 0;
